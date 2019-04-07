@@ -125,4 +125,5 @@ Pod::Spec.new do |s|
   # s.dependency "JSONKit", "~> 1.4"
   # s.dependency "ObjectMapper"
 
+  s.swift_version = '4.2'
 end
